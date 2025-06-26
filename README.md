@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Demo link :- rajeev-portfolio-iota.vercel.app
+Demo link :- [rajeev-portfolio-iota.vercel.app](https://rajeev-portfolio-iota.vercel.app/)
 
 Currently, two official plugins are available:
 
